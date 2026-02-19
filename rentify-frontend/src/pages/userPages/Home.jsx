@@ -10,6 +10,7 @@ export default function Home() {
       <Hero />
       <Categories />
       <Featured />
+      kl;vkvl;xvkx;lvkxz;lkvxz;lvxzkl;xk
       <Stats />
       <CTA />
     </div>
