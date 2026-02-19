@@ -6,12 +6,12 @@ import CTA from "../../components/userPagesComponents/homeComponents/CTA";
 
 export default function Home() {
   return (
-    <>
+<div className="animated-gradient">
       <Hero />
       <Categories />
       <Featured />
       <Stats />
       <CTA />
-    </>
+    </div>
   );
 }
