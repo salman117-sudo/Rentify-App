@@ -10,7 +10,7 @@ export default function Home() {
       <Hero />
       <Categories />
       <Featured />
-      jijdasodjsapojdsapojdposadjpoj
+     
       <Stats />
       <CTA />
     </div>
