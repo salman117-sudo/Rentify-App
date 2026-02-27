@@ -6,6 +6,7 @@ export default function Categories() {
     <section className="bg-gray-50 py-20">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+         
           {categories.map((item) => {
             const Icon = item.icon;
 
